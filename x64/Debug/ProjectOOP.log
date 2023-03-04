@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Alice Albu\source\repos\ProjectOOP\ProjectOOP\interface.h(198): warning C4715: 'UI::ReadOption': not all control paths return a value
+  ProjectOOP.vcxproj -> C:\Users\Alice Albu\source\repos\ProjectOOP\x64\Debug\ProjectOOP.exe
